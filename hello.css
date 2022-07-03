@@ -101,7 +101,8 @@ h3{
     background-color: white;
     margin-right: 50px;
     padding: 10px;
-    padding-top: 4%;
+    padding-top: 5%;
+    text-align: center;
     
 }
 img.home{
@@ -151,7 +152,31 @@ img.storey{
     position: absolute;
     top: 920px;
     left: 250px;
+}
+.last{
+    padding-top: 180px;
+    text-align: center;
+}
+#cent{
+    text-align: center;
+}
+#im{
+    display: flex;
+    justify-content: center;
     
+    
+}
+#im span{ 
+    align-items: center;
+    margin: 40px;
+    width: 100%;
+    background-color: white;
+    margin-right: 50px;
+    padding: 10px;
+    padding-top: 10%;
+    text-align: center;
+    /*margin-left: 90px;
+    margin-right: 90px;*/
 }
 
 
