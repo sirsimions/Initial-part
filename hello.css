@@ -179,6 +179,36 @@ img.storey{
     margin-right: 90px;*/
 }
 
+img.palace{
+    float: right; 
+    border-radius: 0px 80px;
+    position: absolute;
+    top: 1300px;
+    right: 1040px;
+    height: 125px;
+    background-color: white;
+}
+img.ivy{
+    float: right; 
+    border-radius: 0px 80px;
+    position: absolute;
+    top: 1300px;
+    right: 600px;
+    height: 125px;
+    background-color: white;
+}
+img.rexona{
+    float: right; 
+    border-radius: 0px 80px;
+    position: absolute;
+    top: 1300px;
+    right: 180px;
+    height: 125px;
+    background-color: white;
+}
+#dollar{
+    color: #2549D3;
+}
 
 
 
